@@ -1,4 +1,4 @@
-#Setting-up exercises
+# Setting-up exercises
 
 
 Webpack 2
@@ -17,12 +17,12 @@ Bootstrap 4
 
 **Will be add HMR support**
 
-##Usage
+## Usage
 
-####for development
+#### for development
 
 npm run dev
 
-####for production
+#### for production
 
 npm run prod
